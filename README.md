@@ -1,4 +1,4 @@
-** [Contents](#Contents) | [Getting started](#Getting-started) | [Running the notebooks](#Running-the-notebooks)  [issues](#Issues) |  [license](#License)**
+**[Contents](#Contents) | [Getting started](#Getting-started) | [Running the notebooks](#Running-the-notebooks)  [issues](#Issues) |  [license](#License)**
 
 # casing-em-cuevas
 
