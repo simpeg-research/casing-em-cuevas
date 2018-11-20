@@ -20,6 +20,7 @@ before_install:
   - conda update --yes conda
 
 install:
+  - conda install numpy scipy matplotlib mkl
   - pip install -r requirements.txt
   - export MPLBACKEND="agg"
   - pip install -r requirements-dev.txt
