@@ -1,4 +1,4 @@
-**[Contents](#Contents) | [Getting started](#Getting-started) | [Running the notebooks](#Running-the-notebooks)  [issues](#Issues) |  [license](#License)**
+**[Contents](#Contents) | [Getting started](#Getting-started) | [Running the notebooks](#Running-the-notebooks)  [issues](#Issues) |  [License](#License)**
 
 # casing-em-cuevas
 
@@ -46,6 +46,7 @@ Jupyter will then launch in your web-browser.
 
 ## online with Binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/casing-em-cuevas/master)
+
 The notebooks can be run online through [mybinder](https://mybinder.org/v2/gh/simpeg-research/casing-em-cuevas/master). Note that changes you make here do not persist. If you would like to keep a copy of your changes, you will need to download the notebook before you finish. 
 
 # Running the notebooks
